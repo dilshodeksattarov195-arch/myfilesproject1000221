@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercetch",
+        "uuid": 1955850,
+        "checksum": "ujb9ng"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
